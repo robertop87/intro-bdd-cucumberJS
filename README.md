@@ -13,3 +13,7 @@ Ejecute el siguiente comando:
 ### 3 Ejecute las pruebas
 
   `./node_modules/.bin/cucumber-js `
+
+#### Guía de laboratorio:
+
+https://docs.google.com/document/d/1wkX1W9CK2OcGPULjDZeto59sGAPVlEZX90sLJl27QQI/edit?usp=sharing
